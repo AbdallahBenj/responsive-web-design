@@ -55,49 +55,49 @@ The curriculum covered:
 
 ## 📝 Exercises
 
-🔹 [HTML audio and video lab](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/01-HTML-audio-and-video-lab/)
+🔹 [HTML audio and video lab](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/01-HTML-audio-and-video-lab/)
 
-🔹 [Movie review](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/02-Movie-review/)
+🔹 [Movie review](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/02-Movie-review/)
 
-🔹 [Multimedia player](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/03-Multimedia-player/)
+🔹 [Multimedia player](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/03-Multimedia-player/)
 
-🔹 [Greeting card](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/04-Greeting-card/)
+🔹 [Greeting card](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/04-Greeting-card/)
 
-🔹 [Job Application form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/05-Job-Application-form/)
+🔹 [Job Application form](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/05-Job-Application-form/)
 
-🔹 [Registration form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/06-Registration-form/)
+🔹 [Registration form](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/06-Registration-form/)
 
-🔹 [Contact form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/07-Contact-form/)
+🔹 [Contact form](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/07-Contact-form/)
 
-🔹 [Game settings panel](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/08-Game-settings-panel/)
+🔹 [Game settings panel](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/08-Game-settings-panel/)
 
-🔹 [Selection feature page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/09-Selection-feature-page/)
+🔹 [Selection feature page](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/09-Selection-feature-page/)
 
-🔹 [Confidential email](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/10-Confidential-email/)
+🔹 [Confidential email](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/10-Confidential-email/)
 
-🔹 [Photo gallery](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/11-Photo-gallery/)
+🔹 [Photo gallery](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/11-Photo-gallery/)
 
-🔹 [Newspaper article](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/12-Newspaper-article/)
+🔹 [Newspaper article](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/12-Newspaper-article/)
 
-🔹 [Accessibility quiz](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/13-Accessibility-quiz/)
+🔹 [Accessibility quiz](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/13-Accessibility-quiz/)
 
-🔹 [House painting](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/14-House-painting/)
+🔹 [House painting](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/14-House-painting/)
 
-🔹 [City skyline](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/15-City-skyline/)
+🔹 [City skyline](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/15-City-skyline/)
 
-🔹 [Availability table](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/16-Availability-table/)
+🔹 [Availability table](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/16-Availability-table/)
 
-🔹 [Magazine](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/17-Magazine/)
+🔹 [Magazine](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/17-Magazine/)
 
-🔹 [Grid template areas](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/18-Grid-template-areas/)
+🔹 [Grid template areas](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/18-Grid-template-areas/)
 
-🔹 [Magazine layout](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/19-Magazine-layout/)
+🔹 [Magazine layout](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/19-Magazine-layout/)
 
-🔹 [Ferris wheel](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/20-Ferris-wheel/)
+🔹 [Ferris wheel](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/20-Ferris-wheel/)
 
-🔹 [Moon orbit](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/21-Moon-orbit/)
+🔹 [Moon orbit](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/21-Moon-orbit/)
 
-🔹 [Flappy penguin](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/22-Flappy-penguin/)
+🔹 [Flappy penguin](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/exercises/22-Flappy-penguin/)
 
 ---
 
@@ -105,27 +105,27 @@ The curriculum covered:
 
 Each project applies HTML/CSS fundamentals, layout techniques, and responsive design.
 
-🔹 Build a [Survey Form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/01-Survey-Form/)
+🔹 Build a [Survey Form](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/projects/01-Survey-Form/)
 
 Create a fully structured and accessible form using semantic HTML and CSS styling.
 
-🔹 Build a [Page of Playing Cards](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/02-Playing-Cards/)
+🔹 Build a [Page of Playing Cards](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/projects/02-Playing-Cards/)
 
 Practice layout, typography, and CSS styling to recreate a set of playing cards.
 
-🔹 Build a [Book Inventory App](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/03-Book-Inventory/)
+🔹 Build a [Book Inventory App](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/projects/03-Book-Inventory/)
 
 Design a responsive book listing interface using Flexbox or Grid.
 
-🔹 Build a [Technical Documentation Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/04-Technical-Documentation/)
+🔹 Build a [Technical Documentation Page](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/projects/04-Technical-Documentation/)
 
 Build a multi-section documentation layout with smooth navigation and responsive structure.
 
-🔹 Build a [Product Landing Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/05-Landing-Page/)
+🔹 Build a [Product Landing Page](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/projects/05-Landing-Page/)
 
 Create a marketing landing page with navigation, product sections, and responsive layout.
 
-🔹 Build a [Portfolio-Projects](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/06-Portfolio-Projects/)
+🔹 Build a [Portfolio-Projects](https://abdallahbenj.github.io/freecodecamp-responsive-web-design/projects/06-Portfolio-Projects/)
 
 ---
 
